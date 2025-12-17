@@ -7,9 +7,11 @@ public class Product {
         this.price = price;
     }
     String getName(){
+
         return name;
     }
     double getPrice(){
+
         return price ;
     }
 }
