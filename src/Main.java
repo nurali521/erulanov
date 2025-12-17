@@ -1,7 +1,7 @@
 public class Main{
     public static void main(String[] args){
         Product p1 = new Product("Keybord" , 700);
-        Product p2 = new Product("Monitor", 300);
+        Product p2 = new Product("M", 300);
         Product p3 =  new Product("Mouse",150);
 
         Supplier s1 = new Supplier("Asus");
